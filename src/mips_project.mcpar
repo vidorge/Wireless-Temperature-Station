@@ -40,11 +40,11 @@ Count=0
 Count=4
 Path0=C:\Program Files\Mikroelektronika\mikroC PRO for ARM\Defs\
 Path1=C:\Program Files\Mikroelektronika\mikroC PRO for ARM\Uses\
-Path2=C:\Users\Vidor\Desktop\mips_project\
+Path2=C:\Users\Vidor\Desktop\Wireless-Temperature-Station\src\
 Path3=C:\Program Files\Mikroelektronika\mikroC PRO for ARM\Uses\ST M4\
 [HEADER_PATH]
 Count=1
-Path0=C:\Users\Vidor\Desktop\mips_project\
+Path0=C:\Users\Vidor\Desktop\Wireless-Temperature-Station\src\
 [HEADERS]
 Count=4
 File0=display.h
